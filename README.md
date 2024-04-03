@@ -11,4 +11,5 @@ and can be considered constant, which makes it possible to use the classical hea
 near the sphere and alternatively obtain an expression for pressure disturbances far from
 the sphere based on estimating the rate of change in the volume of the near-wall spherical
 layer.
+
 **Key words**: sound generation, temperature oscillation, thermal conductivity
