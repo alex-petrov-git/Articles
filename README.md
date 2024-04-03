@@ -1,6 +1,6 @@
 # Articles
 
-## [Sound radiation by a sphere with variable temperature]
+## [Sound radiation by a sphere with variable temperature](https://github.com/alex-petrov-git/Articles/blob/main/Sound%20radiation%20by%20a%20sphere%20with%20variable%20temperature.pdf)
 
 The model problem of sound emission by temperature inhomogeneities in a compressible
 heat-conducting gas at rest has been solved. A harmonic law of temperature oscillation
